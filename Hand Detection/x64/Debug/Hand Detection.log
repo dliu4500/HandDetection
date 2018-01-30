@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\dliu4\onedrive\documents\visual studio 2017\projects\hand detection\hand detection\main.cpp(85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dliu4\onedrive\documents\visual studio 2017\projects\hand detection\hand detection\main.cpp(115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dliu4\onedrive\documents\visual studio 2017\projects\hand detection\hand detection\main.cpp(116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Hand Detection.vcxproj -> C:\Users\dliu4\OneDrive\Documents\Visual Studio 2017\Projects\Hand Detection\x64\Debug\Hand Detection.exe
+  Hand Detection.vcxproj -> C:\Users\dliu4\OneDrive\Documents\Visual Studio 2017\Projects\Hand Detection\x64\Debug\Hand Detection.pdb (Partial PDB)
